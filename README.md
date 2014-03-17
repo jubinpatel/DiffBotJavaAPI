@@ -5,17 +5,21 @@ DiffBot provides its API in only JSON format, so I created this integrity API in
 Please Note :
 DiffBot Java API 0.1 BETA version.
 
+
 Used Other Library integrated in code :
-Json
-commons-httpclient-2.0
+Json, 
+commons-httpclient-2.0, 
 commons-logging-1.1.1
 
 
 
 DiffBotAPI jar :
+
 Jar file to use as API in other projects
 
 Q. How To use jar file in other projects?
+
+
 A.
 -- Add Jar file as lib in project.
 -- No need to add any other extra lib in project for our API support.(Json code also added to our jar)
